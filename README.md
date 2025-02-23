@@ -28,5 +28,44 @@ Here's a summary of the columns:
 - churn: Whether the customer churned or not (True/False).
 
 ## Visualizations
+### Relationship between churning out and international plan
+![image](https://github.com/user-attachments/assets/675e92c7-9390-4c3d-b8d1-57bf99d8dea8)
+
+From the graph, customers with an international plan, are more likely to stay than those without.
+### Relationship between number of calls and time of day plus international
+![image](https://github.com/user-attachments/assets/60f4b331-b215-42ad-9a7d-ab9052b95ffc)
+
+### Relationship between charges and time of day
+![image](https://github.com/user-attachments/assets/452d6d97-4fff-4fbe-aa2c-782d88688dba)
+
+### Relationship between minutes and time of day
+![image](https://github.com/user-attachments/assets/c12d0c4e-64c2-4e5f-b02e-587bba0118cb)
+
+## Modeling
+### 1. Logistic Regression
+Logistic regression scores:
+Precision: 0.5806451612903226
+Recall: 0.1782178217821782
+f1 score: 0.2727272727272727
+Accuracy: 0.856071964017991
+AUC: 0.8331875590385894
+
+- Confusion matrix:
+  ![image](https://github.com/user-attachments/assets/f2a33ab1-6d09-4afa-8e3b-cc0168e6fe8e)
+
+### 2. Decision Tree 
+Decision tree scores:
+Precision: 0.6788990825688074
+Recall: 0.7326732673267327
+f1 score: 0.7047619047619047
+Accuracy: 0.9070464767616192
+
+- Confusion matrix:
+  ![image](https://github.com/user-attachments/assets/738a0dcb-f357-48b0-a4ce-a50a6033dbe9)
+
+
+
+
+
 
 
