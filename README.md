@@ -67,8 +67,9 @@ Decision tree scores:
 
 ## Recommendations
 From EDA and modeling, these are the recommendations:
-- Reduce day charges to lure more customers, since a lot of calls are being during the day
-- 
+- Reduce day charges to lure more customers, since a lot of calls are being during the day.
+- Another alternative to day charges would be to have offers from the normal charges once in a while to  encourage more day calls.
+- Improve customer service. If customers make less calls to customer service department, they'll feel less frustrated, and encouraged to stay.
 
 
 
