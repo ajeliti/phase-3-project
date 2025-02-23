@@ -26,7 +26,7 @@ Here's a summary of the columns:
 - total intl charge: Total charge for the international calls.
 - customer service calls: Number of times the customer called customer service.
 - churn: Whether the customer churned or not (True/False).
-## Data preparation
-We will do EDA of the data and preprocessing before we get to analyze it.
 
-![image](https://github.com/user-attachments/assets/27cf24c6-01e5-42dc-80a8-803b8627a9cb)
+## Visualizations
+
+
