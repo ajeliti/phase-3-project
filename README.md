@@ -44,23 +44,25 @@ From the graph, customers with an international plan, are more likely to stay th
 ## Modeling
 ### 1. Logistic Regression
 Logistic regression scores:
-Precision: 0.5806451612903226
-Recall: 0.1782178217821782
-f1 score: 0.2727272727272727
-Accuracy: 0.856071964017991
-AUC: 0.8331875590385894
+- Precision: 0.5806451612903226
+- Recall: 0.1782178217821782
+- f1 score: 0.2727272727272727
+- Accuracy: 0.856071964017991
+- AUC: 0.8331875590385894
 
 - Confusion matrix:
+  
   ![image](https://github.com/user-attachments/assets/f2a33ab1-6d09-4afa-8e3b-cc0168e6fe8e)
 
 ### 2. Decision Tree 
 Decision tree scores:
-Precision: 0.6788990825688074
-Recall: 0.7326732673267327
-f1 score: 0.7047619047619047
-Accuracy: 0.9070464767616192
+- Precision: 0.6788990825688074
+- Recall: 0.7326732673267327
+- f1 score: 0.7047619047619047
+- Accuracy: 0.9070464767616192
 
 - Confusion matrix:
+  
   ![image](https://github.com/user-attachments/assets/738a0dcb-f357-48b0-a4ce-a50a6033dbe9)
 
 
