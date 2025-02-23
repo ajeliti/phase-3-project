@@ -65,6 +65,10 @@ Decision tree scores:
   
   ![image](https://github.com/user-attachments/assets/738a0dcb-f357-48b0-a4ce-a50a6033dbe9)
 
+## Recommendations
+From EDA and modeling, these are the recommendations:
+- Reduce day charges to lure more customers, since a lot of calls are being during the day
+- 
 
 
 
